@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AbhishekSarthi/Workout-appstatic/css/main.a2198e47.chunk.css",
+    "main.js": "/AbhishekSarthi/Workout-appstatic/js/main.9560635b.chunk.js",
+    "main.js.map": "/AbhishekSarthi/Workout-appstatic/js/main.9560635b.chunk.js.map",
+    "runtime-main.js": "/AbhishekSarthi/Workout-appstatic/js/runtime-main.00146d4d.js",
+    "runtime-main.js.map": "/AbhishekSarthi/Workout-appstatic/js/runtime-main.00146d4d.js.map",
+    "static/js/2.336716a9.chunk.js": "/AbhishekSarthi/Workout-appstatic/js/2.336716a9.chunk.js",
+    "static/js/2.336716a9.chunk.js.map": "/AbhishekSarthi/Workout-appstatic/js/2.336716a9.chunk.js.map",
+    "index.html": "/AbhishekSarthi/Workout-appindex.html",
+    "static/css/main.a2198e47.chunk.css.map": "/AbhishekSarthi/Workout-appstatic/css/main.a2198e47.chunk.css.map",
+    "static/js/2.336716a9.chunk.js.LICENSE.txt": "/AbhishekSarthi/Workout-appstatic/js/2.336716a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00146d4d.js",
+    "static/js/2.336716a9.chunk.js",
+    "static/css/main.a2198e47.chunk.css",
+    "static/js/main.9560635b.chunk.js"
+  ]
+}
